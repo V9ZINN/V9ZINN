@@ -1,0 +1,4 @@
+- 👋 Ola meu nome é @V9ZINN
+- 👍 Meu email de contato é steven.guarani.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
